@@ -1,6 +1,10 @@
 *{
   scroll-behavior: smooth;
 }
+body{
+  max-width:1370px;
+  margin:auto
+}
 .first-nav-text {
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
